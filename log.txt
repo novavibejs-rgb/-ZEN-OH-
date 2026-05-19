@@ -1,0 +1,5 @@
+[13:01:23] [INFO] Sistema iniciado
+[13:01:23] [DEBUG] Carregando dados...
+[13:01:23] [OK] Deu tudo certo!
+[13:01:23] [ALERTA] Cuidado com isso
+[13:01:23] [ERRO] Erro ao conectar!
