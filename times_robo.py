@@ -21,5 +21,12 @@ times = {
     "Vasco": "Vasco da Gama",
     "Macara": "CSD Macará",
     "Los Angeles Galaxy":"LA Galaxy",
-    "Criciúma":"Criciúma"
+    "Criciúma":"Criciúma",
+    "River Plate":"River Plate",
+    "Blooming":"Blooming",
+    "Cerro Porteno":"Cerro Porteno",
+    "Sporting Cristal":"Sporting Cristal",
+    "Boca Juniors":"Boca Juniors",
+    "Universidad Católica":"Universidade Católica",
+    
 }
